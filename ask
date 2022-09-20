@@ -2,14 +2,62 @@
 
 echo "Do you want spam?"
 read nothin
+
+if [[ $nothin == ^C ]]; then
+
+echo "Nice Try"
+
+else
+ 
+fi
+
 sleep 1
 echo "ok"
+read hi
+
+if [[ $hi == ^C ]]; then
+
+echo "Nice Try"
+
+else
+ 
+fi
+
 echo "spam loading"
+read stop
+
+if [[ $stop == ^C ]]; then
+
+echo "Nice Try"
+
+else
+ 
+fi
+
 sleep 1
 echo "..."
+read no
+
+if [[ $no == ^C ]]; then
+
+echo "Nice Try"
+
+else
+ 
+fi
+
 sleep 1
 clear
 echo "....................................."
+read bruh
+
+if [[ $bruh == ^C ]]; then
+
+echo "Nice Try"
+
+else
+ 
+fi
 sleep 1
 
 bash spam_script_1
