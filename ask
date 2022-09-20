@@ -12,4 +12,4 @@ clear
 echo "....................................."
 sleep 1
 
-./spam_script_1
+bash spam_script_1
