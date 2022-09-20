@@ -1,99 +1,19 @@
 #!/bin/bash
-read ^C
 
-if [[ $^C == ^C ]]; then
-
-echo "Nice Try"
-
-else
- 
-fi
 echo "HACKED"
-read ^C
-
-if [[ $^C == ^C ]]; then
-
-echo "Nice Try"
-
-else
- 
-fi
 
 echo "LOL"
-read ^C
-
-if [[ $^C == ^C ]]; then
-
-echo "Nice Try"
-
-else
- 
-fi
 
 echo "noob"
-read ^C
-
-if [[ $^C == ^C ]]; then
-
-echo "Nice Try"
-
-else
- 
-fi
 
 echo "YESSIR"
-read ^C
-
-if [[ $^C == ^C ]]; then
-
-echo "Nice Try"
-
-else
- 
-fi
 
 echo "GET REKT NOOB"
-read ^C
-
-if [[ $^C == ^C ]]; then
-
-echo "Nice Try"
-
-else
- 
-fi
 
 echo "LOLLLLLLLLLLLL"
-read ^C
-
-if [[ $^C == ^C ]]; then
-
-echo "Nice Try"
-
-else
- 
-fi
 
 echo "IM ROBBING YOU!!!!!!"
-read ^C
-
-if [[ $^C == ^C ]]; then
-
-echo "Nice Try"
-
-else
- 
-fi
 
 echo "HACKED"
-read ^C
-
-if [[ $^C == ^C ]]; then
-
-echo "Nice Try"
-
-else
- 
-fi
 
 bash spam_script_1
