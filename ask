@@ -1,0 +1,15 @@
+#!/bin/bash
+
+echo "Do you want spam?"
+read nothin
+sleep 1
+echo "ok"
+echo "spam loading"
+sleep 1
+echo "..."
+sleep 1
+clear
+echo "....................................."
+sleep 1
+
+./spam_script_1
