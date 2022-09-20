@@ -6,4 +6,6 @@ TO RUN UNDETECTED USE:
 
 OR FOR DIRECT SPAM USE: 
 
-bash 
+cd simple_spam_script
+
+bash spam_script_1
