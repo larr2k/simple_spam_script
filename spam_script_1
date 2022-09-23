@@ -26,6 +26,7 @@ echo 'Im injecting scripts now lol'
 
 echo 'time to get hacked lol
 
+git clone https://github.com/swagkarna/MetaInject
 
 clear
 
