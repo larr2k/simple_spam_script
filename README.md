@@ -1,4 +1,5 @@
 
+<h1>WARNING ONLY USE ON A VM THIS CONTAINS RANSDOMWARE</h1>
 TO RUN UNDETECTED USE: 
 <br>cd simple_spam_script<br>
 <br>bash ask
